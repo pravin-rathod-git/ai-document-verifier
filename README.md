@@ -14,12 +14,6 @@
 
 ---
 
-## 🎥 System Demonstration
-
-> **Note to self/recruiters:** *Upload a 10-second GIF here showing a passport being dragged into the UI, the JSON extracting, and asking a question in the chat.*
-> 
-> *(Replace the link below with your actual GIF once recorded)*
-> ![App Demo](./demo.gif)
 
 ---
 
