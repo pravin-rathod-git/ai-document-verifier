@@ -1,0 +1,20 @@
+# .gitignore
+
+# Environment Variables (CRITICAL: Never upload API keys!)
+.env
+
+# Python & Backend
+backend/.venv/
+backend/__pycache__/
+backend/*.pyc
+backend/uploads/
+backend/vector_store/
+
+# Node & Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.eslintcache
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
